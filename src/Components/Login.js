@@ -17,10 +17,10 @@ function Login() {
                 src = "https://th.bing.com/th/id/OIP.zQx4lAQ4wDnsHavraLPzOQHaHa?pid=ImgDet&rs=1"
                 alt = ""
             />
-            <h1>Sign in to the Juanpa Chat</h1>
+            <h1>Inicia Sesión en el Chat de Juanpa </h1>
             <p>Juanpa.slack.com</p>
             <Button onClick={signIn}>
-                Sign in with Google
+                Iniciar Con Google
             </Button>
             </LoginInnerContainer>
         </LoginContainer>
